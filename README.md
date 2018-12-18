@@ -3,4 +3,4 @@
 
 [SCP-2212](http://scp-wiki-cn.wikidot.com/scp-2212)
 #### 已知的线索
-- [图像](http://scp-wiki-cn.wikidot.com/2212-archival-image)的[解法]()
+- [2212 收容措施图像](http://scp-wiki-cn.wikidot.com/2212-archival-image)的[解法]()
