@@ -32,6 +32,8 @@
   </tr>
 </table>
 
+![SCP-2212 收容措施图像](https://github.com/iPlanC/SCP_2212_Reserch_Notes/blob/master/2212-archival-image/%E8%A7%A3%E5%AF%86.PNG?raw=true)
+
 >0 将其标记为绿色（安全）  
 >1 将其标记为黑色（不安全）  
 >2 将其保持为原样  
